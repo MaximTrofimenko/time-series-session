@@ -1,0 +1,18 @@
+# Условие задания не публикуем.
+задание.pdf
+
+# Локальное окружение и настройки редактора.
+.venv/
+venv/
+.idea/
+.DS_Store
+
+# Временные файлы Python и Jupyter.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Локальные переменные окружения.
+.env
+.env.*
